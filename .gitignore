@@ -1,0 +1,8 @@
+annotations/
+images/
+img/
+.vscode/
+best_model.keras
+mask_detection.h5
+res10_300x300_ssd_iter_140000.caffemodel
+# deploy.prototxt
