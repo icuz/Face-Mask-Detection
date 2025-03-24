@@ -54,10 +54,10 @@ The dataset used for training and evaluation consists of **face mask images** wi
 
 ## **Contributors**  
 - **B. Anuradha** - Conceptualization & Supervision  
-- **P.Y. Geetha Madhuri** - Model Training & Implementation  
-- **Manda Vighneshwara Reddy** - Dataset Preprocessing & Testing  
-- **Sudhanshu Gupta** - Review & Technical Improvements  
-- **Gummireddy Sainath Reddy** - Data Analysis & Performance Metrics  
+- **Manda Vighneshwara Reddy** - Model Training & Implementation
+- **Gummireddy Sainath Reddy** - Review & Technical Improvements
+- **P.Y. Geetha Madhuri** - Dataset Preprocessing & Testing  
+- **Sudhanshu Gupta** - Data Analysis & Performance Metrics   
 - **Akhil Kumar** - Figures & Statistical Analysis  
 
 ## **Citation**  
