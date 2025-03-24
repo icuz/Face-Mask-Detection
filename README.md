@@ -13,10 +13,8 @@ This project implements a **semi-supervised learning approach** for **face mask 
 ## **Dataset**  
 The dataset used for training and evaluation consists of **face mask images** with corresponding segmentation masks. It includes both synthetic and real-world datasets to ensure robustness.  
 
-### **Dataset Links**  
-1. **Medical Mask Dataset:** [https://www.kaggle.com/datasets/andrewmvd/medical-mask-dataset](https://www.kaggle.com/datasets/andrewmvd/medical-mask-dataset)  
-2. **Face Mask Detection Dataset:** [https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset](https://www.kaggle.com/datasets/wobotintelligence/face-mask-detection-dataset)  
-3. **MaskedFace-Net:** [https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection](https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection)  
+### **Dataset Link**  
+- **Medical Mask Dataset:** [https://www.kaggle.com/datasets/andrewmvd/medical-mask-dataset](https://www.kaggle.com/datasets/andrewmvd/medical-mask-dataset)
 
 ## **Installation**  
 1. **Clone the repository:**  
@@ -27,20 +25,6 @@ The dataset used for training and evaluation consists of **face mask images** wi
 2. **Install dependencies:**  
    ```bash
    pip install -r requirements.txt
-   ```  
-
-## **Usage**  
-1. **Train the model:**  
-   ```bash
-   python train.py --dataset path/to/dataset --epochs 50
-   ```  
-2. **Evaluate the model:**  
-   ```bash
-   python evaluate.py --model path/to/model
-   ```  
-3. **Run inference on an image:**  
-   ```bash
-   python predict.py --image path/to/image.jpg
    ```  
 
 ## **Results & Performance**  
