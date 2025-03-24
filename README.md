@@ -66,7 +66,7 @@ If you use this work in your research, please cite:
 @article{face_mask_detection_2025,
   author    = {B. Anuradha, P.Y. Geetha Madhuri, Manda Vighneshwara Reddy, Sudhanshu Gupta, Gummireddy Sainath Reddy, Akhil Kumar},
   title     = {Semi-Supervised Face Mask Detection Using Deep Learning},
-  journal   = {Conference on Computer Vision and Medical Imaging},
+  journal   = {},
   year      = {2025}
 }
 ```
